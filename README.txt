@@ -1,3 +1,1 @@
-# GetSetGo 
-Hey!
-Naman Kalra here!
+*** Fee Calculator ***
